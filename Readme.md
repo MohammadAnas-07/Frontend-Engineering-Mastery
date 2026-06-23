@@ -7,3 +7,14 @@
 - [x] Object.freeze
 - [x] Hoisting
 - [x] Closures
+- [x] Scope
+- [x] Reference vs Value
+- [x] use strict
+- [x] Object.freeze
+- [x] Hoisting
+- [x] Closures
+- [x] this Keyword
+- [x] call()
+- [x] apply()
+- [x] bind()
+- [x] bind() Polyfill
