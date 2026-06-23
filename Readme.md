@@ -25,6 +25,7 @@
 
 - [x] Synchronous vs Asynchronous
 - [x] Event Loop
-- [ ] Callback Hell
-- [ ] Promises
+- [x] Callback Hell
+- [x] Promises
+- [x] Promise Microtask Queue
 - [ ] Async/Await
