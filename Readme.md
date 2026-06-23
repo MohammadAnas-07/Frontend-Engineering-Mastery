@@ -28,4 +28,4 @@
 - [x] Callback Hell
 - [x] Promises
 - [x] Promise Microtask Queue
-- [ ] Async/Await
+- [x] Async/Await
