@@ -18,3 +18,5 @@
 - [x] apply()
 - [x] bind()
 - [x] bind() Polyfill
+- [x] Arrow Functions
+- [x] Currying
