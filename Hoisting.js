@@ -16,3 +16,11 @@ function test(){
     console.log(a)
 }
 test()
+
+
+let b = 10
+
+function test(){
+    console.log(b)
+}
+test()
