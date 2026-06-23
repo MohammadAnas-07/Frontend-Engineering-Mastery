@@ -20,3 +20,11 @@
 - [x] bind() Polyfill
 - [x] Arrow Functions
 - [x] Currying
+
+## Async JavaScript
+
+- [x] Synchronous vs Asynchronous
+- [x] Event Loop
+- [ ] Callback Hell
+- [ ] Promises
+- [ ] Async/Await
