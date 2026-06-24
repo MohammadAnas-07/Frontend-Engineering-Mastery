@@ -29,3 +29,5 @@
 - [x] Promises
 - [x] Promise Microtask Queue
 - [x] Async/Await
+- [x] Debouncing
+- [x] Throttling
