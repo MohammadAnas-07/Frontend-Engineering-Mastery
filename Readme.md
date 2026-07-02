@@ -31,3 +31,9 @@
 - [x] Async/Await
 - [x] Debouncing
 - [x] Throttling
+
+## Browser Storage
+
+- [x] localStorage vs sessionStorage
+- [ ] Cookies
+- [ ] JWT
