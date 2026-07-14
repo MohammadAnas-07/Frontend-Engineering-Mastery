@@ -1,0 +1,13 @@
+#grandparent{
+    padding:50px;
+    background:lightblue;
+}
+
+#parent{
+    padding:50px;
+    background:lightgreen;
+}
+
+#child{
+    padding:10px;
+}
