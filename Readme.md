@@ -44,4 +44,4 @@
 - [x] Event Bubbling
 - [x] Event Capturing
 - [x] Event Delegation
-- [ ] preventDefault()
+- [x] preventDefault()
