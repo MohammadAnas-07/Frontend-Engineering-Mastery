@@ -38,3 +38,10 @@
 - [x] Cookies
 - [x] JWT
 - [x] CORS
+
+## DOM Events Progress
+
+- [x] Event Bubbling
+- [x] Event Capturing
+- [x] Event Delegation
+- [ ] preventDefault()
