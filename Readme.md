@@ -35,5 +35,6 @@
 ## Browser Storage
 
 - [x] localStorage vs sessionStorage
-- [ ] Cookies
-- [ ] JWT
+- [x] Cookies
+- [x] JWT
+- [x] CORS
