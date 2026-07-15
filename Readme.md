@@ -45,3 +45,10 @@
 - [x] Event Capturing
 - [x] Event Delegation
 - [x] preventDefault()
+
+## ES6 Modules
+
+- [x] Named Export
+- [x] Default Export
+- [x] Namespace Import(*)
+- [x] Barrel Files
