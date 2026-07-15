@@ -5,6 +5,10 @@
 
 # 📚 JavaScript Progress Tracker
 
+> A complete roadmap to master JavaScript, React, Browser APIs, Frontend System Design, and modern web development through hands-on coding, interview questions, and real-world examples.
+
+---
+
 ## JavaScript Foundations
 
 - [x] var, let, const
@@ -73,40 +77,18 @@
 - [x] Array Destructuring
 - [x] Template Literals
 - [x] Default Parameters
+- [x] Enhanced Object Literals
+- [x] Optional Chaining (`?.`)
+- [x] Nullish Coalescing (`??`)
 
 ---
 
-## Upcoming Topics
 
-- [ ] Enhanced Object Literals
-- [ ] Optional Chaining (`?.`)
-- [ ] Nullish Coalescing (`??`)
-- [ ] Function.prototype & Inheritance
-- [ ] Polyfills
-- [ ] Array Methods
-- [ ] Slice vs Splice
-- [ ] String Methods
-- [ ] Web Workers
-- [ ] Service Workers
-- [ ] Async vs Defer
-- [ ] GraphQL
-- [ ] Jest
-- [ ] Redux
-- [ ] Context API
-- [ ] React Hooks
-- [ ] Component Lifecycle
-- [ ] LESS
-- [ ] SCSS
-- [ ] Webpack
-- [ ] Lodash
+# 📊 Progress
 
----
-
-## 📊 Progress
-
-**Completed:** **27 / 50 Topics** ✅
+✅ **Completed:** **31 / 50 Topics**
 
 ```
-██████████████████████░░░░░░░░
-54% Complete
+█████████████████████████░░░░░
+62% Complete
 ```
