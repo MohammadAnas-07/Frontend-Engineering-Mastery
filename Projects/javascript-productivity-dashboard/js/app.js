@@ -21,5 +21,12 @@ taskForm.addEventListener("submit", function(event){
 
     const button = document.createElement("button")
     button.textContent = "❌"
+    button.classList.add("delete-btn")
     li.appendChild(button)
+
+    taskList.addEventListener("click", function(event){
+        if(event.target.classList.contains("delete-btn")){
+            event.target.parentElement.remove()
+        }
+    })
 })
