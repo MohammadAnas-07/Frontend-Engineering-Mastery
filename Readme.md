@@ -1,3 +1,8 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Progress](https://img.shields.io/badge/Progress-54%25-success)
+![Status](https://img.shields.io/badge/Learning-In%20Progress-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 📚 JavaScript Progress Tracker
 
 ## JavaScript Foundations
