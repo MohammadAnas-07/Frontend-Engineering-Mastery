@@ -1,16 +1,9 @@
+# 📚 JavaScript Progress Tracker
+
 ## JavaScript Foundations
 
 - [x] var, let, const
 - [x] Scope
-- [x] Reference vs Value
-- [x] use strict
-- [x] Object.freeze
-- [x] Hoisting
-- [x] Closures
-- [x] Scope
-- [x] Reference vs Value
-- [x] use strict
-- [x] Object.freeze
 - [x] Hoisting
 - [x] Closures
 - [x] this Keyword
@@ -20,35 +13,95 @@
 - [x] bind() Polyfill
 - [x] Arrow Functions
 - [x] Currying
+- [x] Reference vs Value
+- [x] use strict
+- [x] Object.freeze
+
+---
 
 ## Async JavaScript
 
 - [x] Synchronous vs Asynchronous
-- [x] Event Loop
 - [x] Callback Hell
-- [x] Promises
+- [x] Event Loop
 - [x] Promise Microtask Queue
+- [x] Promises
 - [x] Async/Await
 - [x] Debouncing
 - [x] Throttling
 
-## Browser Storage
+---
+
+## Browser Storage & Security
 
 - [x] localStorage vs sessionStorage
 - [x] Cookies
 - [x] JWT
 - [x] CORS
 
-## DOM Events Progress
+---
+
+## DOM Events
 
 - [x] Event Bubbling
 - [x] Event Capturing
 - [x] Event Delegation
+- [x] stopPropagation()
 - [x] preventDefault()
+
+---
 
 ## ES6 Modules
 
 - [x] Named Export
 - [x] Default Export
-- [x] Namespace Import(*)
-- [x] Barrel Files
+- [x] Namespace Import (`*`)
+- [x] Barrel Files (`index.js`)
+
+---
+
+## Modern ES6 Features
+
+- [x] Spread Operator (`...`)
+- [x] Rest Operator (`...`)
+- [x] Object Destructuring
+- [x] Array Destructuring
+- [x] Template Literals
+- [x] Default Parameters
+
+---
+
+## Upcoming Topics
+
+- [ ] Enhanced Object Literals
+- [ ] Optional Chaining (`?.`)
+- [ ] Nullish Coalescing (`??`)
+- [ ] Function.prototype & Inheritance
+- [ ] Polyfills
+- [ ] Array Methods
+- [ ] Slice vs Splice
+- [ ] String Methods
+- [ ] Web Workers
+- [ ] Service Workers
+- [ ] Async vs Defer
+- [ ] GraphQL
+- [ ] Jest
+- [ ] Redux
+- [ ] Context API
+- [ ] React Hooks
+- [ ] Component Lifecycle
+- [ ] LESS
+- [ ] SCSS
+- [ ] Webpack
+- [ ] Lodash
+
+---
+
+## 📊 Progress
+
+**Completed:** **27 / 50 Topics** ✅
+
+```
+██████████████████████░░░░░░░░
+54% Complete
+```
