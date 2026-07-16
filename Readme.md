@@ -1,5 +1,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![Progress](https://img.shields.io/badge/Progress-54%25-success)
+![Progress](https://img.shields.io/badge/Progress-72%25-success)
 ![Status](https://img.shields.io/badge/Learning-In%20Progress-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -83,12 +83,95 @@
 
 ---
 
+## DOM Manipulation
+
+- [x] getElementById()
+- [x] getElementsByClassName()
+- [x] querySelector()
+- [x] querySelectorAll()
+- [x] textContent
+- [x] innerText
+- [x] innerHTML
+- [x] createElement()
+- [x] appendChild()
+- [x] remove()
+- [x] classList.add()
+- [x] classList.remove()
+- [x] classList.toggle()
+- [x] closest()
+- [x] matches()
+- [x] dataset
+
+---
+
+## 🚀 Projects
+
+### JavaScript Productivity Dashboard
+
+**Status:** 🟡 In Progress
+
+#### Completed Features
+
+- [x] Project Setup
+- [x] Add Task
+- [x] Delete Task
+- [x] Complete Task
+- [x] LocalStorage Persistence
+- [x] Unique IDs using `Date.now()`
+- [x] `data-*` Attributes
+- [x] `dataset`
+- [x] Event Delegation
+- [x] `closest()`
+- [x] `find()`
+- [x] `findIndex()`
+- [x] `splice()`
+- [x] `JSON.stringify()`
+- [x] `JSON.parse()`
+
+#### Upcoming Features
+
+- [ ] Search Tasks
+- [ ] Debounced Search
+- [ ] Filter Tasks
+- [ ] Dark Mode
+- [ ] Task Statistics
+- [ ] ES6 Modules Refactor
+
 
 # 📊 Progress
 
-✅ **Completed:** **33 / 50 Topics**
+✅ **Completed:** **44 / 61 Topics**
 
 ```
-███████████████████████████░░░
-66% Complete
+████████████████████████████████████░░░░
+72% Complete
 ```
+
+## 🧠 Interview Concepts Covered
+
+- Scope & Closures
+- Hoisting
+- Event Loop
+- Promises & Async/Await
+- Browser Storage
+- Event Delegation
+- ES6 Modules
+- Modern ES6 Features
+- DOM Manipulation
+- CRUD Operations
+- LocalStorage Persistence
+
+---
+
+## 📅 Learning Journey
+
+- ✅ JavaScript Foundations
+- ✅ Async JavaScript
+- ✅ Browser APIs
+- ✅ DOM Manipulation
+- ✅ ES6+
+- 🟡 Production JavaScript Projects
+- ⏳ React.js
+- ⏳ Next.js
+- ⏳ TypeScript
+- ⏳ Frontend System Design
