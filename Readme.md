@@ -59,6 +59,24 @@
 - [x] preventDefault()
 
 ---
+## DOM Manipulation
+
+- [x] getElementById()
+- [x] querySelector()
+- [x] querySelectorAll()
+- [x] textContent
+- [x] innerHTML
+- [x] createElement()
+- [x] appendChild()
+- [x] remove()
+- [x] classList.add()
+- [x] classList.remove()
+- [x] classList.toggle()
+- [x] closest()
+- [ ] matches()
+- [ ] dataset
+
+---
 
 ## ES6 Modules
 
@@ -83,12 +101,37 @@
 
 ---
 
+## 🚀 Projects
+
+### JavaScript Productivity Dashboard
+
+**Status:** 🟡 In Progress
+
+#### Completed Features
+
+- [x] Project Setup
+- [x] Add Task
+- [x] Delete Task
+- [x] Complete Task
+- [x] Refactored using `closest()`
+
+#### Upcoming Features
+
+- [ ] LocalStorage
+- [ ] Search (Debounce)
+- [ ] Filter
+- [ ] Dark Mode
+- [ ] Statistics
+- [ ] ES6 Modules Refactor
+
+---
+
 
 # 📊 Progress
 
 ✅ **Completed:** **33 / 50 Topics**
 
 ```
-███████████████████████████░░░
-66% Complete
+███████████████████████████████████░░░░░
+70% Complete
 ```

@@ -24,15 +24,17 @@ taskForm.addEventListener("submit", function(event){
     button.classList.add("delete-btn")
     li.appendChild(button)
 
-    taskList.addEventListener("click", (event)=>{
-        
-        if(event.target.classList.contains("delete-btn")){
-            event.target.parentElement.remove()
-            return;
-        }
+})
 
-        if(event.target.tagName === "LI"){
-            event.target.classList.toggle("completed")
-        }
-    })
+taskList.addEventListener("click", (event)=>{
+
+    if(event.target.classList.contains("delete-btn")){
+        const li = event.target.closest("li")
+        li.remove()
+    }
+
+    if(event.target.tagName === "LI"){
+        const li = event.target.closest("li")
+        li.classList.toggle("completed")
+    }
 })
