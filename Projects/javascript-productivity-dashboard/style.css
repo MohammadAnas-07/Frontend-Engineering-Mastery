@@ -23,3 +23,7 @@ button{
 li{
     margin-top: 10px;
 }
+.completed{
+    text-decoration: line-through;
+    opacity: 0.6;
+}
