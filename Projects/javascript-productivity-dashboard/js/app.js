@@ -89,6 +89,14 @@ taskList.addEventListener("click", (event) => {
     if (event.target.tagName === "LI") {
 
     const li = event.target.closest("li")
+
+    const id = Number(li.dataset.id)
+
+    const task = tasks.find(task => task.id === id)
+
+    task.completed = !task.completed
+
+    saveTasks()
     
     li.classList.toggle("completed")
 }
