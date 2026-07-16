@@ -35,3 +35,11 @@ A production-style JavaScript project built while mastering Frontend Engineering
 - Debouncing
 - Throttling
 - Async JavaScript
+
+### Features Completed
+
+- ✅ Add Task
+- ✅ Delete Task
+- ✅ LocalStorage Persistence
+- ✅ Event Delegation
+- ✅ Unique Task IDs
